@@ -1,19 +1,13 @@
 instructors:
-  - name: Albus Dumbledore
-    profile_pic: /_images/pp/dumbledore.jpg
-    webpage: https://en.wikipedia.org/wiki/Albus_Dumbledore
-  - name: Minerva McGonagall
-    profile_pic: /_images/pp/mcgonagall.jpg
+  - name: Saeed Reza Kheradpisheh
+    profile_pic: /_images/pp/prof.jpg
+    webpage: https://www.linkedin.com/in/saeed-reza-kheradpisheh-7a0b18155/
 
 teaching_assistants:
-  - name: Harry Potter
-    profile_pic: /_images/pp/potter.jpg
-    webpage: https://en.wikipedia.org/wiki/Harry_Potter_(character)
+  - name: Navid Kashi
+    profile_pic: /_images/pp/ta01.jpg
+    webpage: https://www.linkedin.com/in/navid-kashi-a3863588/
 
-  - name: Hermione Granger
-    profile_pic: /_images/pp/granger.jpg
-    webpage: https://en.wikipedia.org/wiki/Hermione_Granger
-
-  - name: Ron Weasley
-    profile_pic: /_images/pp/weasley.jpg
-    webpage: https://en.wikipedia.org/wiki/Ron_Weasley
+  - name: Ali Sharifi
+    profile_pic: /_images/pp/ta02.jpg
+    webpage: https://www.linkedin.com/in/ali-sharifi-a31569134/

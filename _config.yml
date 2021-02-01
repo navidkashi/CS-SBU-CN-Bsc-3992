@@ -29,7 +29,7 @@ markdown: kramdown
 permalink: blog/:year/:month/:title
 excerpt_separator: "<!--more-->"
 
-include: ['_css', '_js']
+include: ['_images', '_css', '_js']
 exclude: ['develop']
 
 dateformat: "%m/%d/%Y"

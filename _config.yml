@@ -1,9 +1,9 @@
 # Site settings
-course_name: Artificial Neural Networks
+course_name: Computational Neuroscience
 course_description: "Course Description...."
 course_semester: "Spring 2021"
 
-baseurl: "/SBU-ANN-3992" # the subpath of your site, e.g. /blog/
+baseurl: "/CS-SBU-CN-Bsc-3992" # the subpath of your site, e.g. /blog/
 url: "http://navidkashi.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Shahid Beheshti University"
@@ -18,7 +18,7 @@ address: |
     Tehran, Iran
 
 # Set your Google Analytics tracking ID (set up yours at http://www.google.com/analytics/)
-google_analytics: G-7V3HG9P1K2
+#google_analytics: G-7V3HG9P1K2
 
 ### Do not change the followings unless you know what you are doing ###
 
